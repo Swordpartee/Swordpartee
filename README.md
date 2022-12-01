@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Swordpartee
+- 👀 I’m interested in Minecraft, Coding, and Groot 
+- 🌱 I’m currently learning Java and Python
+- 📫 Contact me via email: nabaile586@gmail.com
