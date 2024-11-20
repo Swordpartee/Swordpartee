@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Swordpartee
-- 👀 I’m interested in Minecraft, Coding, and Groot 
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in game developement, computer programming, band, and musical theater
+- 🌱 Proficent in Java, Python, C#, Javascript, HTML/CSS, and Rust
 - 📫 Contact me via email: nabaile586@gmail.com
